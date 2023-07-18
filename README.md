@@ -20,3 +20,6 @@ Also, create a .env file and include below
   EMAIL_PASSWORD = 
   EMAIL_HOST = sandbox.smtp.mailtrap.io
   EMAIL_PORT = 25
+
+#NOTE::
+The code isn't complete. Authentication is incomplete. And there might be some issue with login system. ADMIN Should be manual.
